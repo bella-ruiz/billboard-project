@@ -5,10 +5,10 @@ import csv
 
 test_url = '/'
 
-url_list = ['/2021-03-06/','2020-03-06/', '2019-03-06/', '2018-03-06/', '2017-03-06/', '2016-03-06/', '2015-03-06/', '2014-03-06/', '2013-03-06/']
+url_list = ['/2021-03-06/','/2020-03-06/', '/2019-03-06/', '/2018-03-06/', '/2017-03-06/', '/2016-03-06/', '/2015-03-06/', '/2014-03-06/', '/2013-03-06/']
 
 filename = 'fullscrape.txt'
-myfile = open(filename, 'w')
+myfile = open(filename, 'w', newline='', encoding='utf-8')
 
 
 def scrape_chart(chart_url):
@@ -38,7 +38,8 @@ def write_to_csv(url_list):
     chart_writer.writerow(["rank", "song", "artist", "year"])
     for url in url_list:
         results = scrape_chart(url)
-        chart_writer.writerow(results)
+        chart_writer.writerows(results)
+
 
 scrape_chart(test_url)
 write_to_csv(test_url)

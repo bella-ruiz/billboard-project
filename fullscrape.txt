@@ -1,12 +1,1002 @@
 rank,song,artist,year
-"['1', ""We Don't Talk About Bruno"", 'Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast', '2022']","['2', 'Heat Waves', 'Glass Animals', '2022']","['3', 'abcdefu', 'GAYLE', '2022']","['4', 'Easy On Me', 'Adele', '2022']","['5', 'Super Gremlin', 'Kodak Black', '2022']","['6', 'Stay', 'The Kid LAROI & Justin Bieber', '2022']","['7', 'Ghost', 'Justin Bieber', '2022']","['8', 'Shivers', 'Ed Sheeran', '2022']","['9', 'Bad Habits', 'Ed Sheeran', '2022']","['10', 'Cold Heart (PNAU Remix)', 'Elton John & Dua Lipa', '2022']","['11', 'Thats What I Want', 'Lil Nas X', '2022']","['12', 'Need To Know', 'Doja Cat', '2022']","['13', 'Surface Pressure', 'Jessica Darrow', '2022']","['14', 'Pushin P', 'Gunna & Future Featuring Young Thug', '2022']","['15', 'Industry Baby', 'Lil Nas X & Jack Harlow', '2022']","['16', 'Levitating', 'Dua Lipa', '2022']","['17', 'MAMIII', 'Becky G X Karol G', '2022']","['18', 'Nail Tech', 'Jack Harlow', '2022']","['19', 'Save Your Tears', 'The Weeknd & Ariana Grande', '2022']","['20', 'Enemy', 'Imagine Dragons X JID', '2022']","['21', 'Big Energy', 'Latto', '2022']","['22', 'One Right Now', 'Post Malone & The Weeknd', '2022']","['23', 'Hrs And Hrs', 'Muni Long', '2022']","['24', 'Woman', 'Doja Cat', '2022']","['25', ""'Til You Can't"", 'Cody Johnson', '2022']","['26', 'The Family Madrigal', 'Stephanie Beatriz, Olga Merediz & Encanto Cast', '2022']","['27', 'Good 4 U', 'Olivia Rodrigo', '2022']","['28', 'I Hate U', 'SZA', '2022']","['29', 'Light Switch', 'Charlie Puth', '2022']","['30', 'Sand In My Boots', 'Morgan Wallen', '2022']","['31', 'Buy Dirt', 'Jordan Davis Featuring Luke Bryan', '2022']","['32', 'Knife Talk', 'Drake Featuring 21 Savage & Project Pat', '2022']","['33', 'You Right', 'Doja Cat & The Weeknd', '2022']","['34', 'Love Nwantiti (Ah Ah Ah)', 'CKay', '2022']","['35', 'Fancy Like', 'Walker Hayes', '2022']","['36', 'One Mississippi', 'Kane Brown', '2022']","['37', 'Meet Me At Our Spot', 'THE ANXIETY: WILLOW & Tyler Cole', '2022']","['38', 'What Else Can I Do?', 'Diane Guerrero & Stephanie Beatriz', '2022']","['39', 'Fingers Crossed', 'Lauren Spencer-Smith', '2022']","['40', 'Smokin Out The Window', 'Silk Sonic (Bruno Mars & Anderson .Paak)', '2022']","['41', 'Essence', 'Wizkid Featuring Justin Bieber & Tems', '2022']","['42', 'Ahhh Ha', 'Lil Durk', '2022']","['43', 'Still D.R.E.', 'Dr. Dre Featuring Snoop Dogg', '2022']","['44', 'Do We Have A Problem?', 'Nicki Minaj X Lil Baby', '2022']","['45', 'Oh My God', 'Adele', '2022']","['46', 'Dos Oruguitas', 'Sebastian Yatra', '2022']","['47', 'You Should Probably Leave', 'Chris Stapleton', '2022']","['48', 'Sacrifice', 'The Weeknd', '2022']","['49', ""Doin' This"", 'Luke Combs', '2022']","['50', 'Better Days', 'NEIKED X Mae Muller X Polo G', '2022']","['51', 'To Be Loved By You', 'Parker McCollum', '2022']","['52', 'Beers On Me', 'Dierks Bentley, Breland & HARDY', '2022']","['53', 'AA', 'Walker Hayes', '2022']","['54', 'City Of Gods', 'Fivio Foreign, Kanye West & Alicia Keys', '2022']","['55', 'Never Say Never', 'Cole Swindell / Lainey Wilson', '2022']","['56', '23', 'Sam Hunt', '2022']","['57', 'Half Of My Hometown', 'Kelsea Ballerini Featuring Kenny Chesney', '2022']","['58', 'Heart On Fire', 'Eric Church', '2022']","['59', 'Broadway Girls', 'Lil Durk Featuring Morgan Wallen', '2022']","['60', 'Waiting On A Miracle', 'Stephanie Beatriz', '2022']","['61', 'Banking On Me', 'Gunna', '2022']","['62', ""She's All I Wanna Be"", 'Tate McRae', '2022']","['63', 'Me Or Sum', 'Nardo Wick, Lil Baby & Future', '2022']","['64', 'The Joker And The Queen', 'Ed Sheeran Featuring Taylor Swift', '2022']","['65', 'Boyfriend', 'Dove Cameron', '2022']","['66', 'Rumors', 'Gucci Mane Featuring Lil Durk', '2022']","['67', 'Pressure', 'Ari Lennox', '2022']","['68', 'Numb Little Bug', 'Em Beihold', '2022']","['69', 'High', 'The Chainsmokers', '2022']","['70', 'Peru', 'Fireboy DML & Ed Sheeran', '2022']","['71', 'Who Want Smoke??', 'Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage', '2022']","['72', 'Bussin', 'Nicki Minaj X Lil Baby', '2022']","['73', 'Worst Day', 'Future', '2022']","['74', 'Beautiful Lies', 'Yung Bleu & Kehlani', '2022']","['75', 'P Power', 'Gunna Featuring Drake', '2022']","['76', 'Circles Around This Town', 'Maren Morris', '2022']","['77', 'All Of You', 'Stephanie Beatriz, Olga Merediz, John Leguizamo, Adassa, Maluma & Encanto Cast', '2022']","['78', 'Cigarettes', 'Juice WRLD', '2022']","['79', 'If I Was A Cowboy', 'Miranda Lambert', '2022']","['80', 'I Love You So', 'The Walters', '2022']","['81', 'Scorpio', 'Moneybagg Yo', '2022']","['82', 'Do It To It', 'Acraze Featuring Cherish', '2022']","['83', 'By Your Side', 'Rod Wave', '2022']","['84', 'Freedom Was A Highway', 'Jimmie Allen & Brad Paisley', '2022']","['85', 'The Motto', 'Tiesto & Ava Max', '2022']","['86', ""Don't Play That"", 'King Von & 21 Savage', '2022']","['87', 'Never Wanted To Be That Girl', 'Carly Pearce & Ashley McBryde', '2022']","['88', 'Flower Shops', 'ERNEST Featuring Morgan Wallen', '2022']","['89', 'Good Morning Gorgeous', 'Mary J. Blige', '2022']","['90', ""When I'm Gone"", 'Alesso / Katy Perry', '2022']","['91', 'Poppin', 'Yeat', '2022']","['92', 'Come Back As A Country Boy', 'Blake Shelton', '2022']","['93', 'Iffy', 'Chris Brown', '2022']","['94', 'Home Sweet', 'Russell Dickerson', '2022']","['95', 'Pray', 'Jessie Murph', '2022']","['96', 'Closer', 'Saweetie Featuring H.E.R.', '2022']","['97', 'Cold December', 'Rod Wave', '2022']","['98', 'Get Into It (Yuh)', 'Doja Cat', '2022']","['99', ""All Too Well (Taylor's Version)"", 'Taylor Swift', '2022']","['100', 'Give Heaven Some Hell', 'HARDY', '2022']"
+1,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",2022
+2,Heat Waves,Glass Animals,2022
+3,abcdefu,GAYLE,2022
+4,Easy On Me,Adele,2022
+5,Super Gremlin,Kodak Black,2022
+6,Stay,The Kid LAROI & Justin Bieber,2022
+7,Ghost,Justin Bieber,2022
+8,Shivers,Ed Sheeran,2022
+9,Bad Habits,Ed Sheeran,2022
+10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,2022
+11,Thats What I Want,Lil Nas X,2022
+12,Need To Know,Doja Cat,2022
+13,Surface Pressure,Jessica Darrow,2022
+14,Pushin P,Gunna & Future Featuring Young Thug,2022
+15,Industry Baby,Lil Nas X & Jack Harlow,2022
+16,Levitating,Dua Lipa,2022
+17,MAMIII,Becky G X Karol G,2022
+18,Nail Tech,Jack Harlow,2022
+19,Save Your Tears,The Weeknd & Ariana Grande,2022
+20,Enemy,Imagine Dragons X JID,2022
+21,Big Energy,Latto,2022
+22,One Right Now,Post Malone & The Weeknd,2022
+23,Hrs And Hrs,Muni Long,2022
+24,Woman,Doja Cat,2022
+25,'Til You Can't,Cody Johnson,2022
+26,The Family Madrigal,"Stephanie Beatriz, Olga Merediz & Encanto Cast",2022
+27,Good 4 U,Olivia Rodrigo,2022
+28,I Hate U,SZA,2022
+29,Light Switch,Charlie Puth,2022
+30,Sand In My Boots,Morgan Wallen,2022
+31,Buy Dirt,Jordan Davis Featuring Luke Bryan,2022
+32,Knife Talk,Drake Featuring 21 Savage & Project Pat,2022
+33,You Right,Doja Cat & The Weeknd,2022
+34,Love Nwantiti (Ah Ah Ah),CKay,2022
+35,Fancy Like,Walker Hayes,2022
+36,One Mississippi,Kane Brown,2022
+37,Meet Me At Our Spot,THE ANXIETY: WILLOW & Tyler Cole,2022
+38,What Else Can I Do?,Diane Guerrero & Stephanie Beatriz,2022
+39,Fingers Crossed,Lauren Spencer-Smith,2022
+40,Smokin Out The Window,Silk Sonic (Bruno Mars & Anderson .Paak),2022
+41,Essence,Wizkid Featuring Justin Bieber & Tems,2022
+42,Ahhh Ha,Lil Durk,2022
+43,Still D.R.E.,Dr. Dre Featuring Snoop Dogg,2022
+44,Do We Have A Problem?,Nicki Minaj X Lil Baby,2022
+45,Oh My God,Adele,2022
+46,Dos Oruguitas,Sebastian Yatra,2022
+47,You Should Probably Leave,Chris Stapleton,2022
+48,Sacrifice,The Weeknd,2022
+49,Doin' This,Luke Combs,2022
+50,Better Days,NEIKED X Mae Muller X Polo G,2022
+51,To Be Loved By You,Parker McCollum,2022
+52,Beers On Me,"Dierks Bentley, Breland & HARDY",2022
+53,AA,Walker Hayes,2022
+54,City Of Gods,"Fivio Foreign, Kanye West & Alicia Keys",2022
+55,Never Say Never,Cole Swindell / Lainey Wilson,2022
+56,23,Sam Hunt,2022
+57,Half Of My Hometown,Kelsea Ballerini Featuring Kenny Chesney,2022
+58,Heart On Fire,Eric Church,2022
+59,Broadway Girls,Lil Durk Featuring Morgan Wallen,2022
+60,Waiting On A Miracle,Stephanie Beatriz,2022
+61,Banking On Me,Gunna,2022
+62,She's All I Wanna Be,Tate McRae,2022
+63,Me Or Sum,"Nardo Wick, Lil Baby & Future",2022
+64,The Joker And The Queen,Ed Sheeran Featuring Taylor Swift,2022
+65,Boyfriend,Dove Cameron,2022
+66,Rumors,Gucci Mane Featuring Lil Durk,2022
+67,Pressure,Ari Lennox,2022
+68,Numb Little Bug,Em Beihold,2022
+69,High,The Chainsmokers,2022
+70,Peru,Fireboy DML & Ed Sheeran,2022
+71,Who Want Smoke??,"Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage",2022
+72,Bussin,Nicki Minaj X Lil Baby,2022
+73,Worst Day,Future,2022
+74,Beautiful Lies,Yung Bleu & Kehlani,2022
+75,P Power,Gunna Featuring Drake,2022
+76,Circles Around This Town,Maren Morris,2022
+77,All Of You,"Stephanie Beatriz, Olga Merediz, John Leguizamo, Adassa, Maluma & Encanto Cast",2022
+78,Cigarettes,Juice WRLD,2022
+79,If I Was A Cowboy,Miranda Lambert,2022
+80,I Love You So,The Walters,2022
+81,Scorpio,Moneybagg Yo,2022
+82,Do It To It,Acraze Featuring Cherish,2022
+83,By Your Side,Rod Wave,2022
+84,Freedom Was A Highway,Jimmie Allen & Brad Paisley,2022
+85,The Motto,Tiesto & Ava Max,2022
+86,Don't Play That,King Von & 21 Savage,2022
+87,Never Wanted To Be That Girl,Carly Pearce & Ashley McBryde,2022
+88,Flower Shops,ERNEST Featuring Morgan Wallen,2022
+89,Good Morning Gorgeous,Mary J. Blige,2022
+90,When I'm Gone,Alesso / Katy Perry,2022
+91,Poppin,Yeat,2022
+92,Come Back As A Country Boy,Blake Shelton,2022
+93,Iffy,Chris Brown,2022
+94,Home Sweet,Russell Dickerson,2022
+95,Pray,Jessie Murph,2022
+96,Closer,Saweetie Featuring H.E.R.,2022
+97,Cold December,Rod Wave,2022
+98,Get Into It (Yuh),Doja Cat,2022
+99,All Too Well (Taylor's Version),Taylor Swift,2022
+100,Give Heaven Some Hell,HARDY,2022
 rank,song,artist,year
-"['1', 'Drivers License', 'Olivia Rodrigo', '2021']","['2', 'Up', 'Cardi B', '2021']","['3', 'Go Crazy', 'Chris Brown & Young Thug', '2021']","['4', '34+35', 'Ariana Grande Feat. Doja Cat & Megan Thee Stallion', '2021']","['5', 'Blinding Lights', 'The Weeknd', '2021']","['6', 'Save Your Tears', 'The Weeknd & Ariana Grande', '2021']","['7', 'Mood', '24kGoldn Featuring iann dior', '2021']","['8', 'Calling My Phone', 'Lil Tjay Featuring 6LACK', '2021']","['9', 'Positions', 'Ariana Grande', '2021']","['10', 'Levitating', 'Dua Lipa', '2021']","['11', 'What You Know Bout Love', 'Pop Smoke', '2021']","['12', 'Therefore I Am', 'Billie Eilish', '2021']","['13', 'Back In Blood', 'Pooh Shiesty Featuring Lil Durk', '2021']","['14', 'Whoopty', 'CJ', '2021']","['15', 'For The Night', 'Pop Smoke Featuring Lil Baby & DaBaby', '2021']","['16', 'Dakiti', 'Bad Bunny & Jhay Cortez', '2021']","['17', 'Good Days', 'SZA', '2021']","['18', 'I Hope', 'Gabby Barrett Featuring Charlie Puth', '2021']","['19', ""You're Mines Still"", 'Yung Bleu Featuring Drake', '2021']","['20', 'Better Together', 'Luke Combs', '2021']","['21', 'You Broke Me First.', 'Tate McRae', '2021']","['22', 'Streets', 'Doja Cat', '2021']","['23', 'On Me', 'Lil Baby', '2021']","['24', ""My Ex's Best Friend"", 'Machine Gun Kelly X blackbear', '2021']","['25', 'Good Time', 'Niko Moon', '2021']","['26', 'Throat Baby (Go Baby)', 'BRS Kash', '2021']","['27', 'Holy', 'Justin Bieber Featuring Chance The Rapper', '2021']","['28', 'Best Friend', 'Saweetie Featuring Doja Cat', '2021']","['29', 'Willow', 'Taylor Swift', '2021']","['30', 'Lonely', 'Justin Bieber & benny blanco', '2021']","['31', 'Bang!', 'AJR', '2021']","['32', 'No More Parties', 'Coi Leray Featuring Lil Durk', '2021']","['33', 'Anyone', 'Justin Bieber', '2021']","['34', 'Lemonade', 'Internet Money & Gunna Featuring Don Toliver & NAV', '2021']","['35', 'Just The Way', 'Parmalee x Blanco Brown', '2021']","['36', 'Put Your Records On', 'Ritt Momney', '2021']","['37', 'Down To One', 'Luke Bryan', '2021']","['38', 'Without You', 'The Kid LAROI', '2021']","['39', 'Laugh Now Cry Later', 'Drake Featuring Lil Durk', '2021']","['40', 'Starting Over', 'Chris Stapleton', '2021']","['41', 'Body', 'Megan Thee Stallion', '2021']","['42', 'Cry Baby', 'Megan Thee Stallion Featuring DaBaby', '2021']","['43', 'Time Today', 'Moneybagg Yo', '2021']","['44', ""What's Your Country Song"", 'Thomas Rhett', '2021']","['45', 'Damage', 'H.E.R.', '2021']","['46', 'Beers And Sunshine', 'Darius Rucker', '2021']","['47', 'Beat Box', 'SpotemGottem Featuring Pooh Shiesty Or DaBaby', '2021']","['48', 'The Good Ones', 'Gabby Barrett', '2021']","['49', ""We're Good"", 'Dua Lipa', '2021']","['50', 'Dynamite', 'BTS', '2021']","['51', 'Buss It', 'Erica Banks', '2021']","['52', 'Wasted On You', 'Morgan Wallen', '2021']","['53', 'Clouds', 'NF', '2021']","['54', 'Telepatia', 'Kali Uchis', '2021']","['55', 'Monsters', 'All Time Low Featuring Demi Lovato & blackbear', '2021']","['56', 'Goosebumps', 'Travis Scott & HVME', '2021']","['57', 'Golden', 'Harry Styles', '2021']","['58', 'La Noche de Anoche', 'Bad Bunny & Rosalia', '2021']","['59', 'My Head And My Heart', 'Ava Max', '2021']","['60', 'Long Live', 'Florida Georgia Line', '2021']","['61', 'Test Drive', 'Ariana Grande', '2021']","['62', 'Astronaut In The Ocean', 'Masked Wolf', '2021']","['63', 'Heartbreak Anniversary', 'Giveon', '2021']","['64', 'Sand In My Boots', 'Morgan Wallen', '2021']","['65', 'Heat Waves', 'Glass Animals', '2021']","['66', 'Lady', 'Brett Young', '2021']","['67', 'Hit Bout It', 'Lil Yachty Featuring Kodak Black', '2021']","['68', 'Forever After All', 'Luke Combs', '2021']","['69', 'Hole In The Bottle', 'Kelsea Ballerini', '2021']","['70', 'Tyler Herro', 'Jack Harlow', '2021']","['71', 'Girl Like Me', 'Black Eyed Peas X Shakira', '2021']","['72', 'Finesse Out The Gang Way', 'Lil Durk Featuring Lil Baby', '2021']","['73', 'Hell Of A View', 'Eric Church', '2021']","['74', 'Lifestyle', 'Jason Derulo Featuring Adam Levine', '2021']","['75', ""Momma's House"", 'Dustin Lynch', '2021']","['76', 'Masterpiece', 'DaBaby', '2021']","['77', 'Somebody Like That', 'Tenille Arts', '2021']","['78', 'Opp Stoppa', 'YBN Nahmir Featuring 21 Savage', '2021']","['79', 'Neighbors', 'Pooh Shiesty Featuring BIG30', '2021']","['80', ""Somebody's Problem"", 'Morgan Wallen', '2021']","['81', 'You Got It', 'VEDO', '2021']","['82', 'Bandido', 'Myke Towers & Juhn', '2021']","['83', 'Moonwalking In Calabasas', 'DDG', '2021']","['84', 'Drankin N Smokin', 'Future & Lil Uzi Vert', '2021']","['85', 'One Too Many', 'Keith Urban Duet With P!nk', '2021']","['86', ""Still Trappin'"", 'Lil Durk & King Von', '2021']","['87', 'Quicksand', 'Morray', '2021']","['88', 'Chicken Tendies', 'Clinton Kane', '2021']","['89', 'Pick Up Your Feelings', 'Jazmine Sullivan', '2021']","['90', 'ZaZa', '6ix9ine', '2021']","['91', 'Almost Maybes', 'Jordan Davis', '2021']","['92', 'Made For You', 'Jake Owen', '2021']","['93', 'Glad You Exist', 'Dan + Shay', '2021']","['94', 'Afterglow', 'Ed Sheeran', '2021']","['95', 'Cover Me Up', 'Morgan Wallen', '2021']","['96', 'The Business', 'Tiesto', '2021']","['97', 'Hello', 'Pop Smoke Featuring A Boogie Wit da Hoodie', '2021']","['98', 'Monster', 'Shawn Mendes & Justin Bieber', '2021']","['99', 'Track Star', 'Mooski', '2021']","['100', 'Like I Want You', 'Giveon', '2021']"
-
-
-
-
-
-
-
-
+1,Drivers License,Olivia Rodrigo,2021
+2,Up,Cardi B,2021
+3,Go Crazy,Chris Brown & Young Thug,2021
+4,34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,2021
+5,Blinding Lights,The Weeknd,2021
+6,Save Your Tears,The Weeknd & Ariana Grande,2021
+7,Mood,24kGoldn Featuring iann dior,2021
+8,Calling My Phone,Lil Tjay Featuring 6LACK,2021
+9,Positions,Ariana Grande,2021
+10,Levitating,Dua Lipa,2021
+11,What You Know Bout Love,Pop Smoke,2021
+12,Therefore I Am,Billie Eilish,2021
+13,Back In Blood,Pooh Shiesty Featuring Lil Durk,2021
+14,Whoopty,CJ,2021
+15,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,2021
+16,Dakiti,Bad Bunny & Jhay Cortez,2021
+17,Good Days,SZA,2021
+18,I Hope,Gabby Barrett Featuring Charlie Puth,2021
+19,You're Mines Still,Yung Bleu Featuring Drake,2021
+20,Better Together,Luke Combs,2021
+21,You Broke Me First.,Tate McRae,2021
+22,Streets,Doja Cat,2021
+23,On Me,Lil Baby,2021
+24,My Ex's Best Friend,Machine Gun Kelly X blackbear,2021
+25,Good Time,Niko Moon,2021
+26,Throat Baby (Go Baby),BRS Kash,2021
+27,Holy,Justin Bieber Featuring Chance The Rapper,2021
+28,Best Friend,Saweetie Featuring Doja Cat,2021
+29,Willow,Taylor Swift,2021
+30,Lonely,Justin Bieber & benny blanco,2021
+31,Bang!,AJR,2021
+32,No More Parties,Coi Leray Featuring Lil Durk,2021
+33,Anyone,Justin Bieber,2021
+34,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,2021
+35,Just The Way,Parmalee x Blanco Brown,2021
+36,Put Your Records On,Ritt Momney,2021
+37,Down To One,Luke Bryan,2021
+38,Without You,The Kid LAROI,2021
+39,Laugh Now Cry Later,Drake Featuring Lil Durk,2021
+40,Starting Over,Chris Stapleton,2021
+41,Body,Megan Thee Stallion,2021
+42,Cry Baby,Megan Thee Stallion Featuring DaBaby,2021
+43,Time Today,Moneybagg Yo,2021
+44,What's Your Country Song,Thomas Rhett,2021
+45,Damage,H.E.R.,2021
+46,Beers And Sunshine,Darius Rucker,2021
+47,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,2021
+48,The Good Ones,Gabby Barrett,2021
+49,We're Good,Dua Lipa,2021
+50,Dynamite,BTS,2021
+51,Buss It,Erica Banks,2021
+52,Wasted On You,Morgan Wallen,2021
+53,Clouds,NF,2021
+54,Telepatia,Kali Uchis,2021
+55,Monsters,All Time Low Featuring Demi Lovato & blackbear,2021
+56,Goosebumps,Travis Scott & HVME,2021
+57,Golden,Harry Styles,2021
+58,La Noche de Anoche,Bad Bunny & Rosalia,2021
+59,My Head And My Heart,Ava Max,2021
+60,Long Live,Florida Georgia Line,2021
+61,Test Drive,Ariana Grande,2021
+62,Astronaut In The Ocean,Masked Wolf,2021
+63,Heartbreak Anniversary,Giveon,2021
+64,Sand In My Boots,Morgan Wallen,2021
+65,Heat Waves,Glass Animals,2021
+66,Lady,Brett Young,2021
+67,Hit Bout It,Lil Yachty Featuring Kodak Black,2021
+68,Forever After All,Luke Combs,2021
+69,Hole In The Bottle,Kelsea Ballerini,2021
+70,Tyler Herro,Jack Harlow,2021
+71,Girl Like Me,Black Eyed Peas X Shakira,2021
+72,Finesse Out The Gang Way,Lil Durk Featuring Lil Baby,2021
+73,Hell Of A View,Eric Church,2021
+74,Lifestyle,Jason Derulo Featuring Adam Levine,2021
+75,Momma's House,Dustin Lynch,2021
+76,Masterpiece,DaBaby,2021
+77,Somebody Like That,Tenille Arts,2021
+78,Opp Stoppa,YBN Nahmir Featuring 21 Savage,2021
+79,Neighbors,Pooh Shiesty Featuring BIG30,2021
+80,Somebody's Problem,Morgan Wallen,2021
+81,You Got It,VEDO,2021
+82,Bandido,Myke Towers & Juhn,2021
+83,Moonwalking In Calabasas,DDG,2021
+84,Drankin N Smokin,Future & Lil Uzi Vert,2021
+85,One Too Many,Keith Urban Duet With P!nk,2021
+86,Still Trappin',Lil Durk & King Von,2021
+87,Quicksand,Morray,2021
+88,Chicken Tendies,Clinton Kane,2021
+89,Pick Up Your Feelings,Jazmine Sullivan,2021
+90,ZaZa,6ix9ine,2021
+91,Almost Maybes,Jordan Davis,2021
+92,Made For You,Jake Owen,2021
+93,Glad You Exist,Dan + Shay,2021
+94,Afterglow,Ed Sheeran,2021
+95,Cover Me Up,Morgan Wallen,2021
+96,The Business,Tiesto,2021
+97,Hello,Pop Smoke Featuring A Boogie Wit da Hoodie,2021
+98,Monster,Shawn Mendes & Justin Bieber,2021
+99,Track Star,Mooski,2021
+100,Like I Want You,Giveon,2021
+1,The Box,Roddy Ricch,2020
+2,Life Is Good,Future Featuring Drake,2020
+3,Circles,Post Malone,2020
+4,ON,BTS,2020
+5,Don't Start Now,Dua Lipa,2020
+6,Roxanne,Arizona Zervas,2020
+7,Dance Monkey,Tones And I,2020
+8,Blinding Lights,The Weeknd,2020
+9,Memories,Maroon 5,2020
+10,Someone You Loved,Lewis Capaldi,2020
+11,Intentions,Justin Bieber Featuring Quavo,2020
+12,Everything I Wanted,Billie Eilish,2020
+13,Heartless,The Weeknd,2020
+14,Hot Girl Bummer,blackbear,2020
+15,Adore You,Harry Styles,2020
+16,"10,000 Hours",Dan + Shay & Justin Bieber,2020
+17,Ballin',Mustard & Roddy Ricch,2020
+18,BOP,DaBaby,2020
+19,The Bones,Maren Morris,2020
+20,After Hours,The Weeknd,2020
+21,Lose You To Love Me,Selena Gomez,2020
+22,My Oh My,Camila Cabello Featuring DaBaby,2020
+23,Yummy,Justin Bieber,2020
+24,Woah,Lil Baby,2020
+25,High Fashion,Roddy Ricch Featuring Mustard,2020
+26,You Should Be Sad,Halsey,2020
+27,Good As Hell,Lizzo,2020
+28,Lil Top,YoungBoy Never Broke Again,2020
+29,Falling,Trevor Daniel,2020
+30,Dior,Pop Smoke,2020
+31,No Guidance,Chris Brown Featuring Drake,2020
+32,What A Man Gotta Do,Jonas Brothers,2020
+33,Say So,Doja Cat Featuring Nicki Minaj,2020
+34,Kinfolks,Sam Hunt,2020
+35,Senorita,Shawn Mendes & Camila Cabello,2020
+36,Bad Guy,Billie Eilish,2020
+37,Godzilla,Eminem Featuring Juice WRLD,2020
+38,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,2020
+39,Homesick,Kane Brown,2020
+40,HIGHEST IN THE ROOM,Travis Scott,2020
+41,Trampoline,SHAED,2020
+42,One Man Band,Old Dominion,2020
+43,Sucker,Jonas Brothers,2020
+44,I Don't Care,Ed Sheeran & Justin Bieber,2020
+45,I Hope,Gabby Barrett Featuring Charlie Puth,2020
+46,Sum 2 Prove,Lil Baby,2020
+47,Red Eye,YoungBoy Never Broke Again,2020
+48,Only Human,Jonas Brothers,2020
+49,Make Me Want To,Jimmie Allen,2020
+50,Numbers,"A Boogie Wit da Hoodie Featuring Roddy Ricch, Gunna & London On Da Track",2020
+51,Blueberry Faygo,Lil Mosey,2020
+52,Slide,H.E.R. Featuring YG,2020
+53,Tusa,Karol G & Nicki Minaj,2020
+54,No Time To Die,Billie Eilish,2020
+55,Juicy,Doja Cat & Tyga,2020
+56,BEST ON EARTH,Russ & BIA,2020
+57,Heart On Ice,Rod Wave,2020
+58,Fine By Time,YoungBoy Never Broke Again,2020
+59,Bad Bad,YoungBoy Never Broke Again,2020
+60,Knocked Off,YoungBoy Never Broke Again,2020
+61,To Die For,Sam Smith,2020
+62,We Back,Jason Aldean,2020
+63,Go Stupid,Polo G Featuring NLE Choppa & Stunna 4 Vegas,2020
+64,What She Wants Tonight,Luke Bryan,2020
+65,Nobody But You,Blake Shelton Duet With Gwen Stefani,2020
+66,Suicidal,YNW Melly & Juice WRLD,2020
+67,Chasin' You,Morgan Wallen,2020
+68,I Wish Grandpas Never Died,Riley Green,2020
+69,Out West,JACKBOYS Featuring Young Thug,2020
+70,More Hearts Than Mine,Ingrid Andress,2020
+71,Moral Of The Story,Ashe Featuring Niall Horan,2020
+72,Homemade,Jake Owen,2020
+73,Slow Dance In A Parking Lot,Jordan Davis,2020
+74,Forever,Justin Bieber Featuring Post Malone & Clever,2020
+75,I Hope You're Happy Now,Carly Pearce & Lee Brice,2020
+76,Know Your Worth,Khalid x Disclosure,2020
+77,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",2020
+78,Dive Bar,Garth Brooks & Blake Shelton,2020
+79,Make No Sense,YoungBoy Never Broke Again,2020
+80,RIP Lil Phat,YoungBoy Never Broke Again,2020
+81,Catch,Brett Young,2020
+82,Before You Go,Lewis Capaldi,2020
+83,TOES,DaBaby Featuring Lil Baby & Moneybagg Yo,2020
+84,My Time,BTS,2020
+85,Long RD,YoungBoy Never Broke Again,2020
+86,South Of The Border,Ed Sheeran Featuring Camila Cabello & Cardi B,2020
+87,Filter,BTS,2020
+88,P*$$y Fairy (OTW),Jhene Aiko,2020
+89,Bat Man,YoungBoy Never Broke Again,2020
+90,homecoming queen?,Kelsea Ballerini,2020
+91,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,2020
+92,The Man,Taylor Swift,2020
+93,Shake The Room,Pop Smoke Featuring Quavo,2020
+94,Rare,Selena Gomez,2020
+95,Come Thru,Summer Walker & Usher,2020
+96,Ridin' Roads,Dustin Lynch,2020
+97,Me And My Guitar,A Boogie Wit da Hoodie,2020
+98,Feel Me,Selena Gomez,2020
+99,Vete,Bad Bunny,2020
+100,SUGAR,BrockHampton,2020
+1,Shallow,Lady Gaga & Bradley Cooper,2019
+2,7 Rings,Ariana Grande,2019
+3,Without Me,Halsey,2019
+4,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,2019
+5,Middle Child,J. Cole,2019
+6,Happier,Marshmello & Bastille,2019
+7,"Thank U, Next",Ariana Grande,2019
+8,Wow.,Post Malone,2019
+9,Thotiana,Blueface,2019
+10,Sicko Mode,Travis Scott,2019
+11,High Hopes,Panic! At The Disco,2019
+12,Eastside,"benny blanco, Halsey & Khalid",2019
+13,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,2019
+14,Please Me,Cardi B & Bruno Mars,2019
+15,Murder On My Mind,YNW Melly,2019
+16,Going Bad,Meek Mill Featuring Drake,2019
+17,Girls Like You,Maroon 5 Featuring Cardi B,2019
+18,A Lot,21 Savage,2019
+19,Drip Too Hard,Lil Baby & Gunna,2019
+20,Money,Cardi B,2019
+21,Better,Khalid,2019
+22,Dancing With A Stranger,Sam Smith & Normani,2019
+23,Beautiful Crazy,Luke Combs,2019
+24,Sweet But Psycho,Ava Max,2019
+25,ZEZE,Kodak Black Featuring Travis Scott & Offset,2019
+26,MIA,Bad Bunny Featuring Drake,2019
+27,Better Now,Post Malone,2019
+28,Robbery,Juice WRLD,2019
+29,Be Alright,Dean Lewis,2019
+30,You Say,Lauren Daigle,2019
+31,Youngblood,5 Seconds Of Summer,2019
+32,Tequila,Dan + Shay,2019
+33,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,2019
+34,Baby Shark,Pinkfong,2019
+35,Look Back At It,A Boogie Wit da Hoodie,2019
+36,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,2019
+37,Leave Me Alone,Flipp Dinero,2019
+38,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",2019
+39,I Like It,"Cardi B, Bad Bunny & J Balvin",2019
+40,Lucid Dreams,Juice WRLD,2019
+41,Bury A Friend,Billie Eilish,2019
+42,Envy Me,Calboy,2019
+43,Mo Bamba,Sheck Wes,2019
+44,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,2019
+45,Twerk,City Girls Featuring Cardi B,2019
+46,Take It From Me,Jordan Davis,2019
+47,Always Remember Us This Way,Lady Gaga,2019
+48,Backin' It Up,Pardison Fontaine Featuring Cardi B,2019
+49,Legacy,Offset Featuring Travis Scott & 21 Savage,2019
+50,Red Room,Offset,2019
+51,This Is It,Scotty McCreery,2019
+52,Pure Water,Mustard & Migos,2019
+53,Close Friends,Lil Baby,2019
+54,Walk Me Home,P!nk,2019
+55,Talk,Khalid,2019
+56,Mixed Personalities,YNW Melly Featuring Kanye West,2019
+57,Millionaire,Chris Stapleton,2019
+58,Girl Like You,Jason Aldean,2019
+59,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,2019
+60,Needy,Ariana Grande,2019
+61,What Makes You Country,Luke Bryan,2019
+62,I'll Never Love Again,Lady Gaga,2019
+63,Undecided,Chris Brown,2019
+64,Clout,Offset Featuring Cardi B,2019
+65,How Did I Get Here,Offset Featuring J. Cole,2019
+66,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,2019
+67,Nights Like This,Kehlani Featuring Ty Dolla $ign,2019
+68,NASA,Ariana Grande,2019
+69,Burn Out,Midland,2019
+70,Outstanding,Gunna,2019
+71,Here Tonight,Brett Young,2019
+72,Be Like Me,Lil Pump Featuring Lil Wayne,2019
+73,Worth It,YK Osiris,2019
+74,3 Headed Snake,Gunna Featuring Young Thug,2019
+75,Wit It,Gunna,2019
+76,Ella Quiere Beber,Anuel AA & Romeo Santos,2019
+77,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,2019
+78,One Call,Gunna,2019
+79,Armed And Dangerous,Juice WRLD,2019
+80,Down To The Honkytonk,Jake Owen,2019
+81,Shot Clock,Ella Mai,2019
+82,Miss Me More,Kelsea Ballerini,2019
+83,Calling My Spirit,Kodak Black,2019
+84,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,2019
+85,Imagine,Ariana Grande,2019
+86,Lick,Offset,2019
+87,Girls Need Love,Summer Walker X Drake,2019
+88,Eyes On You,Chase Rice,2019
+89,Love Someone,Lukas Graham,2019
+90,Bad Idea,Ariana Grande,2019
+91,Speed It Up,Gunna,2019
+92,Secreto,Anuel AA & Karol G,2019
+93,Bloodline,Ariana Grande,2019
+94,I Guess I Just Feel Like,John Mayer,2019
+95,Good As You,Kane Brown,2019
+96,Put A Date On It,Yo Gotti Featuring Lil Baby,2019
+97,Same Yung N***a,Gunna Featuring Playboi Carti,2019
+98,Talk You Out Of It,Florida Georgia Line,2019
+99,Make It Sweet,Old Dominion,2019
+100,Faucet Failure,Ski Mask The Slump God,2019
+1,God's Plan,Drake,2018
+2,Psycho,Post Malone Featuring Ty Dolla $ign,2018
+3,Perfect,Ed Sheeran,2018
+4,Finesse,Bruno Mars & Cardi B,2018
+5,Havana,Camila Cabello Featuring Young Thug,2018
+6,Look Alive,BlocBoy JB Featuring Drake,2018
+7,Meant To Be,Bebe Rexha & Florida Georgia Line,2018
+8,Rockstar,Post Malone Featuring 21 Savage,2018
+9,Pray For Me,The Weeknd & Kendrick Lamar,2018
+10,All The Stars,Kendrick Lamar & SZA,2018
+11,The Middle,"Zedd, Maren Morris & Grey",2018
+12,Stir Fry,Migos,2018
+13,Let You Down,NF,2018
+14,New Rules,Dua Lipa,2018
+15,Him & I,G-Eazy & Halsey,2018
+16,Gummo,6ix9ine,2018
+17,Thunder,Imagine Dragons,2018
+18,I Fall Apart,Post Malone,2018
+19,Love.,Kendrick Lamar Featuring Zacari,2018
+20,Mine,Bazzi,2018
+21,Bad At Love,Halsey,2018
+22,44 More,Logic,2018
+23,Lights Down Low,MAX Featuring gnash,2018
+24,Never Be The Same,Camila Cabello,2018
+25,Wolves,Selena Gomez X Marshmello,2018
+26,Bartier Cardi,Cardi B Featuring 21 Savage,2018
+27,How Long,Charlie Puth,2018
+28,King's Dead,"Jay Rock, Kendrick Lamar, Future & James Blake",2018
+29,Say Something,Justin Timberlake Featuring Chris Stapleton,2018
+30,MotorSport,"Migos, Nicki Minaj & Cardi B",2018
+31,No Limit,G-Eazy Featuring A$AP Rocky & Cardi B,2018
+32,Feel It Still,Portugal. The Man,2018
+33,Young Dumb & Broke,Khalid,2018
+34,Marry Me,Thomas Rhett,2018
+35,Outside Today,YoungBoy Never Broke Again,2018
+36,Ric Flair Drip,Offset & Metro Boomin,2018
+37,Sky Walker,Miguel Featuring Travis Scott,2018
+38,You Make It Easy,Jason Aldean,2018
+39,Wait,Maroon 5,2018
+40,Bodak Yellow (Money Moves),Cardi B,2018
+41,Plain Jane,A$AP Ferg Featuring Nicki Minaj,2018
+42,New Freezer,Rich The Kid Featuring Kendrick Lamar,2018
+43,Whatever It Takes,Imagine Dragons,2018
+44,Heaven,Kane Brown,2018
+45,Sorry Not Sorry,Demi Lovato,2018
+46,River,Eminem Featuring Ed Sheeran,2018
+47,Five More Minutes,Scotty McCreery,2018
+48,Good Old Days,Macklemore Featuring Kesha,2018
+49,Broken Halos,Chris Stapleton,2018
+50,Dura,Daddy Yankee,2018
+51,Lemon,N*E*R*D & Rihanna,2018
+52,El Farsante,Ozuna & Romeo Santos,2018
+53,Walk It Talk It,Migos Featuring Drake,2018
+54,Pick It Up,Famous Dex Featuring A$AP Rocky,2018
+55,Plug Walk,Rich The Kid,2018
+56,Friends,Marshmello & Anne-Marie,2018
+57,Most People Are Good,Luke Bryan,2018
+58,Love Lies,Khalid & Normani,2018
+59,Written In The Sand,Old Dominion,2018
+60,Billy,6ix9ine,2018
+61,Want You Back,5 Seconds Of Summer,2018
+62,Nowadays,Lil Skies Featuring Landon Cube,2018
+63,KEKE,"6ix9ine, Fetty Wap & A Boogie Wit da Hoodie",2018
+64,X,"ScHoolboy Q, 2 Chainz & Saudi",2018
+65,Narcos,Migos,2018
+66,Betrayed,Lil Xan,2018
+67,Hardaway,Derez De'Shon,2018
+68,Singles You Up,Jordan Davis,2018
+69,All On Me,Devin Dawson,2018
+70,No Smoke,YoungBoy Never Broke Again,2018
+71,Candy Paint,Post Malone,2018
+72,Yours,Russell Dickerson,2018
+73,RONDO,6ix9ine Featuring Tory Lanez & Young Thug,2018
+74,You Broke Up With Me,Walker Hayes,2018
+75,The Long Way,Brett Eldredge,2018
+76,Paramedic!,SOB X RBE,2018
+77,Red Roses,Lil Skies Featuring Landon Cube,2018
+78,IDGAF,Dua Lipa,2018
+79,Echame La Culpa,Luis Fonsi & Demi Lovato,2018
+80,La Modelo,Ozuna x Cardi B,2018
+81,Booty,Blac Youngsta,2018
+82,Dark Knight Dummo,Trippie Redd Featuring Travis Scott,2018
+83,Beautiful Trauma,P!nk,2018
+84,Tell Me You Love Me,Demi Lovato,2018
+85,Rubbin Off The Paint,YBN Nahmir,2018
+86,At The Club,Jacquees X Dej Loaf,2018
+87,This Is Me,Keala Settle & The Greatest Showman Ensemble,2018
+88,I Like Me Better,Lauv,2018
+89,Kooda,6ix9ine,2018
+90,The Ways,Khalid & Swae Lee,2018
+91,When We,Tank,2018
+92,Notice Me,Migos Featuring Post Malone,2018
+93,Corazon,Maluma X Nego do Borel,2018
+94,Get You,Daniel Caesar Featuring Kali Uchis,2018
+95,Codeine Dreaming,Kodak Black Featuring Lil Wayne,2018
+96,She's With Me,High Valley,2018
+97,Mayores,Becky G Featuring Bad Bunny,2018
+98,Break Up In The End,Cole Swindell,2018
+99,Make Me Feel,Janelle Monae,2018
+100,Rock,Plies,2018
+1,Shape Of You,Ed Sheeran,2017
+2,Bad And Boujee,Migos Featuring Lil Uzi Vert,2017
+3,I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,2017
+4,That's What I Like,Bruno Mars,2017
+5,Closer,The Chainsmokers Featuring Halsey,2017
+6,Paris,The Chainsmokers,2017
+7,Love On The Brain,Rihanna,2017
+8,Chained To The Rhythm,Katy Perry Featuring Skip Marley,2017
+9,Bounce Back,Big Sean,2017
+10,Bad Things,Machine Gun Kelly x Camila Cabello,2017
+11,I Feel It Coming,The Weeknd Featuring Daft Punk,2017
+12,It Ain't Me,Kygo x Selena Gomez,2017
+13,Fake Love,Drake,2017
+14,Scars To Your Beautiful,Alessia Cara,2017
+15,24K Magic,Bruno Mars,2017
+16,Black Beatles,Rae Sremmurd Featuring Gucci Mane,2017
+17,Starboy,The Weeknd Featuring Daft Punk,2017
+18,Mercy,Shawn Mendes,2017
+19,Don't Wanna Know,Maroon 5 Featuring Kendrick Lamar,2017
+20,iSpy,KYLE Featuring Lil Yachty,2017
+21,Rockabye,Clean Bandit Featuring Sean Paul & Anne-Marie,2017
+22,Body Like A Back Road,Sam Hunt,2017
+23,Cold,Maroon 5 Featuring Future,2017
+24,Caroline,Amine,2017
+25,Down,Marian Hill,2017
+26,All Time Low,Jon Bellion,2017
+27,Tunnel Vision,Kodak Black,2017
+28,Say You Won't Let Go,James Arthur,2017
+29,Can't Stop The Feeling!,Justin Timberlake,2017
+30,Million Reasons,Lady Gaga,2017
+31,Let Me Love You,DJ Snake Featuring Justin Bieber,2017
+32,T-Shirt,Migos,2017
+33,Issues,Julia Michaels,2017
+34,Side To Side,Ariana Grande Featuring Nicki Minaj,2017
+35,Swang,Rae Sremmurd,2017
+36,Congratulations,Post Malone Featuring Quavo,2017
+37,Water Under The Bridge,Adele,2017
+38,Heathens,twenty one pilots,2017
+39,Better Man,Little Big Town,2017
+40,Treat You Better,Shawn Mendes,2017
+41,How Would You Feel (Paean),Ed Sheeran,2017
+42,Dirt On My Boots,Jon Pardi,2017
+43,I Got You,Bebe Rexha,2017
+44,Love,Lana Del Rey,2017
+45,Party,Chris Brown Featuring Usher & Gucci Mane,2017
+46,Draco,Future,2017
+47,Broccoli,D.R.A.M. Featuring Lil Yachty,2017
+48,This Town,Niall Horan,2017
+49,Mask Off,Future,2017
+50,Both,Gucci Mane Featuring Drake,2017
+51,Location,Khalid,2017
+52,Heavy,Linkin Park Featuring Kiiara,2017
+53,Make Me (Cry),Noah Cyrus Featuring Labrinth,2017
+54,Rent Money,Future,2017
+55,Deja Vu,J. Cole,2017
+56,Something Just Like This,The Chainsmokers & Coldplay,2017
+57,Shining,DJ Khaled Featuring Beyonce & JAY Z,2017
+58,Think A Little Less,Michael Ray,2017
+59,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,2017
+60,Play That Song,Train,2017
+61,Sober Saturday Night,Chris Young Featuring Vince Gill,2017
+62,Goosebumps,Travis Scott,2017
+63,Moves,Big Sean,2017
+64,Party Monster,The Weeknd,2017
+65,Believer,Imagine Dragons,2017
+66,Castle On The Hill,Ed Sheeran,2017
+67,Used To This,Future Featuring Drake,2017
+68,Rolex,Ayo & Teo,2017
+69,Love Me Now,John Legend,2017
+70,Look At Me!,XXXTENTACION,2017
+71,Today,Brad Paisley,2017
+72,Call On Me,Starley,2017
+73,Any Ol' Barstool,Jason Aldean,2017
+74,Kill A Word,Eric Church Featuring Rhiannon Giddens,2017
+75,Star Of The Show,Thomas Rhett,2017
+76,Fast,Luke Bryan,2017
+77,Reminder,The Weeknd,2017
+78,Everyday,Ariana Grande Featuring Future,2017
+79,A Guy With A Girl,Blake Shelton,2017
+80,Chantaje,Shakira Featuring Maluma,2017
+81,The Weekend,Brantley Gilbert,2017
+82,Hurricane,Luke Combs,2017
+83,Guys My Age,Hey Violet,2017
+84,Seein' Red,Dustin Lynch,2017
+85,No Heart,21 Savage & Metro Boomin,2017
+86,The Fighter,Keith Urban Featuring Carrie Underwood,2017
+87,Road Less Traveled,Lauren Alaina,2017
+88,Not Nice,PARTYNEXTDOOR,2017
+89,Slippery,Migos Featuring Gucci Mane,2017
+90,Selfish,PnB Rock,2017
+91,Super Trapper,Future,2017
+92,In Case You Didn't Know,Brett Young,2017
+93,Dancing On My Own,Calum Scott,2017
+94,How Far I'll Go,Alessia Cara,2017
+95,Black,Dierks Bentley,2017
+96,Cash Me Outside (#CashMeOutside),DJ Suede The Remix God,2017
+97,No Favors,Big Sean Featuring Eminem,2017
+98,El Amante,Nicky Jam,2017
+99,Zoom,Future,2017
+100,Yeah Boy,Kelsea Ballerini,2017
+1,Work,Rihanna Featuring Drake,2016
+2,Love Yourself,Justin Bieber,2016
+3,Stressed Out,twenty one pilots,2016
+4,Sorry,Justin Bieber,2016
+5,My House,Flo Rida,2016
+6,Pillowtalk,Zayn,2016
+7,"Me, Myself & I",G-Eazy x Bebe Rexha,2016
+8,Hello,Adele,2016
+9,Cake By The Ocean,DNCE,2016
+10,Roses,The Chainsmokers Featuring Rozes,2016
+11,Hands To Myself,Selena Gomez,2016
+12,7 Years,Lukas Graham,2016
+13,Down In The DM,Yo Gotti Featuring Nicki Minaj,2016
+14,One Call Away,Charlie Puth,2016
+15,I Took A Pill In Ibiza,Mike Posner,2016
+16,Stitches,Shawn Mendes,2016
+17,Don't,Bryson Tiller,2016
+18,When We Were Young,Adele,2016
+19,In The Night,The Weeknd,2016
+20,Same Old Love,Selena Gomez,2016
+21,Hotline Bling,Drake,2016
+22,The Hills,The Weeknd,2016
+23,Hide Away,Daya,2016
+24,Jumpman,Drake & Future,2016
+25,What Do You Mean?,Justin Bieber,2016
+26,Here,Alessia Cara,2016
+27,Say It,Tory Lanez,2016
+28,Oui,Jeremih,2016
+29,2 Phones,Kevin Gates,2016
+30,679,Fetty Wap Featuring Remy Boyz,2016
+31,Like I'm Gonna Lose You,Meghan Trainor Featuring John Legend,2016
+32,Summer Sixteen,Drake,2016
+33,Adventure Of A Lifetime,Coldplay,2016
+34,Ex's & Oh's,Elle King,2016
+35,Let It Go,James Bay,2016
+36,Back To Sleep,Chris Brown,2016
+37,Exchange,Bryson Tiller,2016
+38,Can't Feel My Face,The Weeknd,2016
+39,Die A Happy Man,Thomas Rhett,2016
+40,Antidote,Travis Scott,2016
+41,Stand By You,Rachel Platten,2016
+42,White Iverson,Post Malone,2016
+43,Something In The Way You Move,Ellie Goulding,2016
+44,Heartbeat,Carrie Underwood,2016
+45,See You Again,Wiz Khalifa Featuring Charlie Puth,2016
+46,Wildest Dreams,Taylor Swift,2016
+47,Sugar,Robin Schulz Featuring Francesco Yates,2016
+48,Best Friend,Young Thug,2016
+49,Lean On,Major Lazer & DJ Snake Featuring MO,2016
+50,You Should Be Here,Cole Swindell,2016
+51,I Know What You Did Last Summer,Shawn Mendes & Camila Cabello,2016
+52,Drunk On Your Love,Brett Eldredge,2016
+53,Low Life,Future Featuring The Weeknd,2016
+54,Break On Me.,Keith Urban,2016
+55,My Church,Maren Morris,2016
+56,Home Alone Tonight,Luke Bryan Featuring Karen Fairchild,2016
+57,Middle,DJ Snake Featuring Bipolar Sunshine,2016
+58,Never Forget You,Zara Larsson & MNEK,2016
+59,Beautiful Drug,Zac Brown Band,2016
+60,Backroad Song,Granger Smith,2016
+61,Really Really,Kevin Gates,2016
+62,Confession,Florida Georgia Line,2016
+63,We Went,Randy Houser,2016
+64,Needed Me,Rihanna,2016
+65,Get Ugly,Jason Derulo,2016
+66,Jimmy Choo,Fetty Wap,2016
+67,Youth,Troye Sivan,2016
+68,Make Me Like You,Gwen Stefani,2016
+69,Dibs,Kelsea Ballerini,2016
+70,Nobody To Blame,Chris Stapleton,2016
+71,Snapback,Old Dominion,2016
+72,I Like The Sound Of That,Rascal Flatts,2016
+73,Humble And Kind,Tim McGraw,2016
+74,Think Of You,Chris Young Duet With Cassadee Pope,2016
+75,Lost Boy,Ruth B,2016
+76,Acquainted,The Weeknd,2016
+77,Out Of The Woods,Taylor Swift,2016
+78,Somewhere On A Beach,Dierks Bentley,2016
+79,Perfect,One Direction,2016
+80,Might Be,DJ Luke Nasty,2016
+81,Don't Let Me Down,The Chainsmokers Featuring Daya,2016
+82,Promise,Kid Ink Featuring Fetty Wap,2016
+83,Little Bit Of You,Chase Bryant,2016
+84,Hollow,Tori Kelly,2016
+85,Mind Reader,Dustin Lynch,2016
+86,Sorry Not Sorry,Bryson Tiller,2016
+87,Look At My Dab,Migos,2016
+88,The Sound Of Silence,Disturbed,2016
+89,Watch Out,2 Chainz,2016
+90,Walking On A Dream,Empire Of The Sun,2016
+91,Wild Things,Alessia Cara,2016
+92,That Don't Sound Like You,Lee Brice,2016
+93,Saved,Ty Dolla $ign Featuring E-40,2016
+94,Cut It,O.T. Genasis Featuring Young Dolph,2016
+95,$ave Dat Money,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,2016
+96,Panda,Desiigner,2016
+97,Cheap Thrills,Sia Featuring Sean Paul,2016
+98,History,One Direction,2016
+99,I Love This Life,LOCASH,2016
+100,Might Not,Belly Featuring The Weeknd,2016
+1,Uptown Funk!,Mark Ronson Featuring Bruno Mars,2015
+2,Thinking Out Loud,Ed Sheeran,2015
+3,Love Me Like You Do,Ellie Goulding,2015
+4,Sugar,Maroon 5,2015
+5,Take Me To Church,Hozier,2015
+6,FourFiveSeconds,Rihanna & Kanye West & Paul McCartney,2015
+7,Blank Space,Taylor Swift,2015
+8,Style,Taylor Swift,2015
+9,Earned It (Fifty Shades Of Grey),The Weeknd,2015
+10,Lips Are Movin,Meghan Trainor,2015
+11,Time Of Our Lives,Pitbull & Ne-Yo,2015
+12,I'm Not The Only One,Sam Smith,2015
+13,I Don't Mind,Usher Featuring Juicy J,2015
+14,Centuries,Fall Out Boy,2015
+15,Shake It Off,Taylor Swift,2015
+16,Only,"Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown",2015
+17,Truffle Butter,Nicki Minaj Featuring Drake & Lil Wayne,2015
+18,Jealous,Nick Jonas,2015
+19,All About That Bass,Meghan Trainor,2015
+20,Stay With Me,Sam Smith,2015
+21,Ghost,Ella Henderson,2015
+22,She Knows,Ne-Yo Featuring Juicy J,2015
+23,Prayer In C,Lillywood & Robin Schulz,2015
+24,I Don't F**k With You,Big Sean Featuring E-40,2015
+25,7/11,Beyonce,2015
+26,Energy,Drake,2015
+27,Somebody,Natalie La Rose Featuring Jeremih,2015
+28,I Bet My Life,Imagine Dragons,2015
+29,G.D.F.R.,Flo Rida Featuring Sage The Gemini & Lookas,2015
+30,Chandelier,Sia,2015
+31,Riptide,Vance Joy,2015
+32,Ayo,Chris Brown & Tyga,2015
+33,Love Me Harder,Ariana Grande & The Weeknd,2015
+34,One Last Time,Ariana Grande,2015
+35,Trap Queen,Fetty Wap,2015
+36,CoCo,O.T. Genasis,2015
+37,Animals,Maroon 5,2015
+38,No Type,Rae Sremmurd,2015
+39,Take Your Time,Sam Hunt,2015
+40,Bang Bang,"Jessie J, Ariana Grande & Nicki Minaj",2015
+41,Elastic Heart,Sia,2015
+42,Chains,Nick Jonas,2015
+43,Outside,Calvin Harris Featuring Ellie Goulding,2015
+44,The Heart Wants What It Wants,Selena Gomez,2015
+45,Make Me Wanna,Thomas Rhett,2015
+46,Heartbeat Song,Kelly Clarkson,2015
+47,Lonely Tonight,Blake Shelton Featuring Ashley Monroe,2015
+48,Shut Up And Dance,WALK THE MOON,2015
+49,Tuesday,I LOVE MAKONNEN Featuring Drake,2015
+50,Habits (Stay High),Tove Lo,2015
+51,Wonderland,Taylor Swift,2015
+52,Legend,Drake,2015
+53,I See You,Luke Bryan,2015
+54,Post To Be,Omarion Featuring Chris Brown & Jhene Aiko,2015
+55,Night Changes,One Direction,2015
+56,Sun Daze,Florida Georgia Line,2015
+57,Mean To Me,Brett Eldredge,2015
+58,10 Bands,Drake,2015
+59,Ain't Worth The Whiskey,Cole Swindell,2015
+60,Just Gettin' Started,Jason Aldean,2015
+61,Apparently,J. Cole,2015
+62,Feeling Myself,Nicki Minaj Featuring Beyonce,2015
+63,I Lived,OneRepublic,2015
+64,Like A Cowboy,Randy Houser,2015
+65,Talking Body,Tove Lo,2015
+66,Homegrown,Zac Brown Band,2015
+67,Drinking Class,Lee Brice,2015
+68,Blessings,Big Sean Featuring Drake,2015
+69,Often,The Weeknd,2015
+70,Know Yourself,Drake,2015
+71,Lonely Eyes,Chris Young,2015
+72,Lay Me Down,Sam Smith,2015
+73,Homegrown Honey,Darius Rucker,2015
+74,Only One,Kanye West Featuring Paul McCartney,2015
+75,Stuck On A Feeling,Prince Royce Featuring Snoop Dogg,2015
+76,Geronimo,Sheppard,2015
+77,The Hanging Tree,James Newton Howard Featuring Jennifer Lawrence,2015
+78,Throw Sum Mo,Rae Sremmurd Featuring Nicki Minaj & Young Thug,2015
+79,Say You Do,Dierks Bentley,2015
+80,Talladega,Eric Church,2015
+81,No Tellin',Drake,2015
+82,Preach,Drake Featuring PARTYNEXTDOOR,2015
+83,6 God,Drake,2015
+84,Used To,Drake Featuring Lil Wayne,2015
+85,Take It On Back,Chase Bryant,2015
+86,A Guy Walks Into A Bar,Tyler Farr,2015
+87,Sledgehammer,Fifth Harmony,2015
+88,What Kind Of Man,Florence + The Machine,2015
+89,Shots,Imagine Dragons,2015
+90,Try Me,DeJ Loaf,2015
+91,The Body,Wale Featuring Jeremih,2015
+92,What We Ain't Got,Jake Owen,2015
+93,Little Red Wagon,Miranda Lambert,2015
+94,Budapest,George Ezra,2015
+95,Now & Forever,Drake,2015
+96,Slow Motion,Trey Songz,2015
+97,6 Man,Drake,2015
+98,Not For Long,B.o.B Featuring Trey Songz,2015
+99,Glory,Common & John Legend,2015
+100,Go Hard Or Go Home,Wiz Khalifa & Iggy Azalea,2015
+1,Happy,Pharrell Williams,2014
+2,Dark Horse,Katy Perry Featuring Juicy J,2014
+3,Talk Dirty,Jason Derulo Featuring 2 Chainz,2014
+4,All Of Me,John Legend,2014
+5,Drunk In Love,Beyonce Featuring Jay Z,2014
+6,Pompeii,Bastille,2014
+7,Team,Lorde,2014
+8,Say Something,A Great Big World & Christina Aguilera,2014
+9,Counting Stars,OneRepublic,2014
+10,Timber,Pitbull Featuring Ke$ha,2014
+11,Let Her Go,Passenger,2014
+12,Story Of My Life,One Direction,2014
+13,The Man,Aloe Blacc,2014
+14,The Monster,Eminem Featuring Rihanna,2014
+15,Burn,Ellie Goulding,2014
+16,Show Me,Kid Ink Featuring Chris Brown,2014
+17,Royals,Lorde,2014
+18,Let It Go,Idina Menzel,2014
+19,Demons,Imagine Dragons,2014
+20,Wake Me Up!,Avicii,2014
+21,Roar,Katy Perry,2014
+22,My Hitta,YG Featuring Jeezy & Rich Homie Quan,2014
+23,Best Day Of My Life,American Authors,2014
+24,Hey Brother,Avicii,2014
+25,Adore You,Miley Cyrus,2014
+26,Can't Remember To Forget You,Shakira Featuring Rihanna,2014
+27,Radioactive,Imagine Dragons,2014
+28,Chillin' It,Cole Swindell,2014
+29,Turn Down For What,DJ Snake & Lil Jon,2014
+30,Love Me Again,John Newman,2014
+31,Wrecking Ball,Miley Cyrus,2014
+32,Young Girls,Bruno Mars,2014
+33,Paranoid,Ty Dolla $ign Featuring B.o.B,2014
+34,Bottoms Up,Brantley Gilbert,2014
+35,"Hold On, We're Going Home",Drake Featuring Majid Jordan,2014
+36,Animals,Martin Garrix,2014
+37,Drink A Beer,Luke Bryan,2014
+38,Neon Lights,Demi Lovato,2014
+39,Brave,Sara Bareilles,2014
+40,When She Says Baby,Jason Aldean,2014
+41,Sail,AWOLNATION,2014
+42,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,2014
+43,Doin' What She Likes,Blake Shelton,2014
+44,Safe And Sound,Capital Cities,2014
+45,Sweater Weather,The Neighbourhood,2014
+46,Compass,Lady Antebellum,2014
+47,Give Me Back My Hometown,Eric Church,2014
+48,Loyal,Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,2014
+49,Whatever She's Got,David Nail,2014
+50,23,"Mike WiLL Made-It Featuring Miley Cyrus, Wiz Khalifa & Juicy J",2014
+51,Helluva Life,Frankie Ballard,2014
+52,Cop Car,Keith Urban,2014
+53,I Hold On,Dierks Bentley,2014
+54,See You Tonight,Scotty McCreery,2014
+55,Na Na,Trey Songz,2014
+56,Drink To That All Night,Jerrod Niemann,2014
+57,Everything Is AWESOME!!!,Tegan And Sara Featuring The Lonely Island,2014
+58,Rap God,Eminem,2014
+59,Stoner,Young Thug,2014
+60,Take Me Home,Cash Cash Featuring Bebe Rexha,2014
+61,Let It Go,Demi Lovato,2014
+62,Up Down (Do This All Day),T-Pain Featuring B.o.B,2014
+63,Rewind,Rascal Flatts,2014
+64,19 You + Me,Dan + Shay,2014
+65,Love Don't Die,The Fray,2014
+66,Get Me Some Of That,Thomas Rhett,2014
+67,Human,Christina Perri,2014
+68,This Is How We Roll,Florida Georgia Line Ft. Jason Derulo & Luke Bryan,2014
+69,Goodnight Kiss,Randy Houser,2014
+70,Do I Wanna Know?,Arctic Monkeys,2014
+71,Do You Want To Build A Snowman?,"Kristen Bell, Agatha Lee Monn & Katie Lopez",2014
+72,The Language,Drake,2014
+73,Everything I Shouldn't Be Thinking About,Thompson Square,2014
+74,The Worst,Jhene Aiko,2014
+75,Unconditionally,Katy Perry,2014
+76,Friday Night,Eric Paslay,2014
+77,Stay,Florida Georgia Line,2014
+78,Odio,Romeo Santos Featuring Drake,2014
+79,Waiting For Superman,Daughtry,2014
+80,Chocolate,The 1975,2014
+81,Man Of The Year,ScHoolboy Q,2014
+82,For The First Time In Forever,Kristen Bell & Idina Menzel,2014
+83,Ride,SoMo,2014
+84,The Heart Of Dixie,Danielle Bradbery,2014
+85,On Top Of The World,Imagine Dragons,2014
+86,Do What U Want,Lady Gaga Featuring R. Kelly,2014
+87,They Don't Know,Rico Love,2014
+88,Glory And Gore,Lorde,2014
+89,Beat Of The Music,Brett Eldredge,2014
+90,XO,Beyonce,2014
+91,Classic,MKTO,2014
+92,Oceans (Where Feet May Fail),Hillsong UNITED,2014
+93,Worst Behavior,Drake,2014
+94,Thinking About You,Calvin Harris Featuring Ayah Marar,2014
+95,Can't Raise A Man,K. Michelle,2014
+96,Part II (On The Run),Jay Z Featuring Beyonce,2014
+97,Partition,Beyonce,2014
+98,La La La,Naughty Boy Featuring Sam Smith,2014
+99,Ordinary Love,U2,2014
+100,Lettin' The Night Roll,Justin Moore,2014
+1,Harlem Shake,Baauer,2013
+2,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,2013
+3,When I Was Your Man,Bruno Mars,2013
+4,I Knew You Were Trouble.,Taylor Swift,2013
+5,Scream & Shout,will.i.am & Britney Spears,2013
+6,Started From The Bottom,Drake,2013
+7,Stay,Rihanna Featuring Mikky Ekko,2013
+8,Suit & Tie,Justin Timberlake Featuring JAY Z,2013
+9,Locked Out Of Heaven,Bruno Mars,2013
+10,Love Me,Lil Wayne Featuring Drake & Future,2013
+11,Ho Hey,The Lumineers,2013
+12,Don't You Worry Child,Swedish House Mafia Featuring John Martin,2013
+13,One Way Or Another (Teenage Kicks),One Direction,2013
+14,Daylight,Maroon 5,2013
+15,F**kin Problems,"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",2013
+16,Girl On Fire,Alicia Keys Featuring Nicki Minaj,2013
+17,Sweet Nothing,Calvin Harris Featuring Florence Welch,2013
+18,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,2013
+19,I Will Wait,Mumford & Sons,2013
+20,Try,P!nk,2013
+21,Pour It Up,Rihanna,2013
+22,Radioactive,Imagine Dragons,2013
+23,It's Time,Imagine Dragons,2013
+24,Catch My Breath,Kelly Clarkson,2013
+25,Diamonds,Rihanna,2013
+26,Little Talks,Of Monsters And Men,2013
+27,Gangnam Style,PSY,2013
+28,Feel This Moment,Pitbull Featuring Christina Aguilera,2013
+29,Home,Phillip Phillips,2013
+30,Carry On,fun.,2013
+31,Hall Of Fame,The Script Featuring will.i.am,2013
+32,Sure Be Cool If You Did,Blake Shelton,2013
+33,One More Night,Maroon 5,2013
+34,Poetic Justice,Kendrick Lamar Featuring Drake,2013
+35,C'mon,Ke$ha,2013
+36,Wanted,Hunter Hayes,2013
+37,Troublemaker,Olly Murs Featuring Flo Rida,2013
+38,Some Nights,fun.,2013
+39,Better Dig Two,The Band Perry,2013
+40,Adorn,Miguel,2013
+41,All Gold Everything,Trinidad James,2013
+42,Hey Porsche,Nelly,2013
+43,Swimming Pools (Drank),Kendrick Lamar,2013
+44,One Of Those Nights,Tim McGraw,2013
+45,The A Team,Ed Sheeran,2013
+46,Kiss You,One Direction,2013
+47,Two Black Cadillacs,Carrie Underwood,2013
+48,I'm Different,2 Chainz,2013
+49,Sail,AWOLNATION,2013
+50,Die Young,Ke$ha,2013
+51,Tornado,Little Big Town,2013
+52,Neva End,Future,2013
+53,Downtown,Lady Antebellum,2013
+54,Wicked Games,The Weeknd,2013
+55,Loveeeeeee Song,Rihanna Featuring Future,2013
+56,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,2013
+57,Somebody's Heartbreak,Hunter Hayes,2013
+58,I Drive Your Truck,Lee Brice,2013
+59,R.I.P.,Young Jeezy Featuring 2 Chainz,2013
+60,Mama's Broken Heart,Miranda Lambert,2013
+61,Skyfall,Adele,2013
+62,Bugatti,Ace Hood Featuring Future & Rick Ross,2013
+63,Merry Go 'round,Kacey Musgraves,2013
+64,Get Your Shine On,Florida Georgia Line,2013
+65,Don't Stop The Party,Pitbull Featuring TJR,2013
+66,The Only Way I Know,Jason Aldean With Luke Bryan & Eric Church,2013
+67,Tip It On Back,Dierks Bentley,2013
+68,Pirate Flag,Kenny Chesney,2013
+69,Who Booty,Jonn Hart Featuring IamSU!,2013
+70,Bad,Wale Featuring Tiara Thomas Or Rihanna,2013
+71,Give It All We Got Tonight,George Strait,2013
+72,Just Give Me A Reason,P!nk Featuring Nate Ruess,2013
+73,If I Didn't Have You,Thompson Square,2013
+74,I Love It,Icona Pop Featuring Charli XCX,2013
+75,Don't Judge Me,Chris Brown,2013
+76,Mirrors,Justin Timberlake,2013
+77,Battle Scars,Lupe Fiasco & Guy Sebastian,2013
+78,Remember You,Wiz Khalifa Featuring The Weeknd,2013
+79,Alive,Krewella,2013
+80,Ball,T.I. Featuring Lil Wayne,2013
+81,Love And War,Tamar Braxton,2013
+82,Little Things,One Direction,2013
+83,Love Sosa,Chief Keef,2013
+84,Stubborn Love,The Lumineers,2013
+85,Cups (Pitch Perfect's When I'm Gone),Anna Kendrick,2013
+86,Dope,Tyga Featuring Rick Ross,2013
+87,Wagon Wheel,Darius Rucker,2013
+88,As Your Friend,Afrojack Featuring Chris Brown,2013
+89,Next To Me,Emeli Sande,2013
+90,Va Va Voom,Nicki Minaj,2013
+91,Power Trip,J. Cole Featuring Miguel,2013
+92,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,2013
+93,Hold On,Alabama Shakes,2013
+94,Anything Could Happen,Ellie Goulding,2013
+95,Guap,Big Sean,2013
+96,I Can Take It From There,Chris Young,2013
+97,We Still In This B****,B.o.B Featuring T.I. & Juicy J,2013
+98,Goodbye In Her Eyes,Zac Brown Band,2013
+99,Like Jesus Does,Eric Church,2013
+100,Karate Chop (Remix),Future Featuring Lil Wayne,2013
